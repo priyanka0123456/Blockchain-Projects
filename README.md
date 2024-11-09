@@ -1,5 +1,5 @@
 # Fake-Product-Identification-Using-Blockchain
-//Fake Product Identification by QR Code Using Blockchain Project 
+Fake Product Identification by QR Code Using Blockchain Project 
 
 ### Abstract :
 
